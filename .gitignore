@@ -2,3 +2,9 @@
 /.gradle/
 /build/
 /build/classes/java/main/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
